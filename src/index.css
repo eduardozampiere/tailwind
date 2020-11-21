@@ -1,0 +1,8 @@
+@tailwind base;
+
+.btn {
+  @apply flex-shrink-0 transition-all outline-none py-2 px-4 ml-4 text-white font-semibold rounded-md;
+}
+
+@tailwind components;
+@tailwind utilities;
